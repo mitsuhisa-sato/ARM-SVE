@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 
-title: HPC-OSS
+title: ARM-SVE Break-Out-Session in JLESC
 
-description: HPCオープンソースソフトウェア普及部会
+description: this is a page for ARM-SVE BOS in JLESC
 
 github:
   is_project_page: false
